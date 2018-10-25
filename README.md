@@ -3,8 +3,8 @@
 In this repo I host key publications and documents or links to them.  
 
 ### Miscellaneous Submissions  
-- (Thesis from Tel Aviv Univesity) **Rain-Mapping through compressed sensing: reconstruction criteria relating image sparsity resolution and random-observations**:  
- []()  
+- (Thesis) **Rain-Mapping through compressed sensing: reconstruction criteria relating image sparsity resolution and random-observations**:  
+ [from Tel Aviv Univesity](http://primage.tau.ac.il/libraries/theses/exeng/free/3276707.pdf)  
 - (Magazine article) **Trading Cancer for Data: Machine Learning for Cancer Diagnosis**:  
  a feature article on WSR magazine, special issue on AI:  
  [The PDF](https://github.com/LiorGazit/Documents/blob/master/WSR%20magazine%20sept2017%2C%20Feature%20-%20Lior%20Gazit.pdf)  
