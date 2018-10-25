@@ -11,7 +11,7 @@ In this repo I host key publications and documents or links to them.
  [The official magazine publication](https://issuu.com/ihrimpublications/docs/wsr_july-september17-all/13)  
 - (Poster) **Combining Natural Language Processing with Machine-Learning Models for
 Detecting Progression of Disease in Radiology Report of Cancer Patients**:  
- [in AACR conference, Newport, 2018](https://github.com/LiorGazit/Publications_and_Documents/blob/master/Poster%20at%20AACR%202018%2C%20Lior%20Gazit.pdf)  
+ [in AACR conference, Newport, 2018](https://github.com/LiorGazit/Publications_and_Documents/raw/master/Poster%20at%20AACR%202018%2C%20Lior%20Gazit.pdf)  
 
 ### Peer-Reviewed Publications  
 - **Quantification of CT images for the classification of high- and low-risk pancreatic cysts**:  
