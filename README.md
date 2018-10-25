@@ -2,11 +2,16 @@
 
 In this repo I host key publications and documents or links to them.  
 
-### Magazine Articles  
-- **Trading Cancer for Data: Machine Learning for Cancer Diagnosis**:  
+### Miscellaneous Submissions  
+- (Thesis from Tel Aviv Univesity) **Rain-Mapping through compressed sensing: reconstruction criteria relating image sparsity resolution and random-observations**:  
+ []()  
+- (Magazine article) **Trading Cancer for Data: Machine Learning for Cancer Diagnosis**:  
  a feature article on WSR magazine, special issue on AI:  
  [The PDF](https://github.com/LiorGazit/Documents/blob/master/WSR%20magazine%20sept2017%2C%20Feature%20-%20Lior%20Gazit.pdf)  
  [The official magazine publication](https://issuu.com/ihrimpublications/docs/wsr_july-september17-all/13)  
+- (Poster) **Combining Natural Language Processing with Machine-Learning Models for
+Detecting Progression of Disease in Radiology Report of Cancer Patients**:  
+ [in AACR conference, Newport, 2018]()  
 
 ### Peer-Reviewed Publications  
 - **Quantification of CT images for the classification of high- and low-risk pancreatic cysts**:  
@@ -20,4 +25,14 @@ In this repo I host key publications and documents or links to them.
 - **Sufficient Conditions for Reconstructing 2-D Rainfall Maps**:  
  [in IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/document/8372946/)  
 - **Emergency department (ED) presenting symptom clusters for chemotherapy patients**:  
- [in Journal of Clinical Oncology](http://ascopubs.org/doi/abs/10.1200/JCO.2018.36.15_suppl.e18509)
+ [in Journal of Clinical Oncology](http://ascopubs.org/doi/abs/10.1200/JCO.2018.36.15_suppl.e18509)  
+- **Misery Loves Company: Presenting Symptom Clusters to Urgent Care by Patients Receiving Antineoplastic Therapy**:  
+ [in Journal of Oncology Practice](http://ascopubs.org/doi/abs/10.1200/JOP.18.00199)  
+- **Advancements in the Statistical Study, Modeling, and Simulation of Microwave-Links in Cellular Backhaul Networks**:  
+ [in Environments](https://www.mdpi.com/2076-3298/5/7/75)  
+- **Preoperative risk prediction for intraductal papillary mucinous neoplasms by quantitative CT image analysis**:  
+ [in the Official Journal of the International Hepato Pancreato Biliary (HPB) Association](https://www.sciencedirect.com/science/article/abs/pii/S1365182X18327035)  
+- **CT radiomics to predict high‐risk intraductal papillary mucinous neoplasms of the pancreas**:  
+ [in Medical Physics](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.13159)  
+- **Employing electronic health record data to predict risk of emergency department visits for new patients.**:  
+ [in Journal of Clinical Oncology](http://ascopubs.org/doi/abs/10.1200/JCO.2018.36.30_suppl.314)  
