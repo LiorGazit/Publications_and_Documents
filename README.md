@@ -5,21 +5,24 @@ In this repo I host key publications and documents or links to them.
 ### Miscellaneous Submissions  
 - (Thesis) **Rain-Mapping through compressed sensing: reconstruction criteria relating image sparsity resolution and random-observations**:  
  [from Tel Aviv Univesity](http://primage.tau.ac.il/libraries/theses/exeng/free/3276707.pdf)  
+  2016.
+- (Conference talk) **FROM CELLULAR NETWORKS TO THE GARDEN HOSE: ADVANCES IN RAINFALL MONITORING VIA CELLULAR POWER MEASUREMENTS**:  
+ [The conference's plan](http://www.2016.ieeeglobalsip.org/Papers/ViewPapers2238.html?PaperNum=1031)  
+  2016.  
 - (Magazine article) **Trading Cancer for Data: Machine Learning for Cancer Diagnosis**:  
  a feature article on WSR magazine, special issue on AI:  
  [The PDF](https://github.com/LiorGazit/Documents/blob/master/WSR%20magazine%20sept2017%2C%20Feature%20-%20Lior%20Gazit.pdf)  
  [The official magazine publication](https://issuu.com/ihrimpublications/docs/wsr_july-september17-all/13)  
-- (Poster) **Combining Natural Language Processing with Machine-Learning Models for
-Detecting Progression of Disease in Radiology Report of Cancer Patients**:  
- [in AACR conference, Newport, 2018](https://github.com/LiorGazit/Publications_and_Documents/raw/master/Poster%20at%20AACR%202018%2C%20Lior%20Gazit.pdf) 
-- (Conference talk) **FROM CELLULAR NETWORKS TO THE GARDEN HOSE: ADVANCES IN RAINFALL MONITORING VIA CELLULAR POWER MEASUREMENTS**:  
- [The conference's plan](http://www.2016.ieeeglobalsip.org/Papers/ViewPapers2238.html?PaperNum=1031)  
-  2016.  
+  2017.
 - (Conference talk) **Quantification of CT images for the classification of high- and low-risk pancreatic cysts**:
  [Video on conference site](https://www.spiedigitallibrary.org/conference-presentations/10134/101340X/Quantification-of-CT-images-for-the-classification-of-high/10.1117/12.2255626?term=lior%20gazit%7c%7c)  
   2017.  
+- (Poster) **Combining Natural Language Processing with Machine-Learning Models for
+Detecting Progression of Disease in Radiology Report of Cancer Patients**:  
+ [in AACR conference, Newport, 2018](https://github.com/LiorGazit/Publications_and_Documents/raw/master/Poster%20at%20AACR%202018%2C%20Lior%20Gazit.pdf)  
+  2018.
 - (Conference talk) **NLP Realizes its Potential in Healthcare - Reviewing its Abilities, Current Achievements, and Expectations**:  
- [Video of the talk on Youtube](https://www.youtube.com/watch?v=Evc7yleZlwM)  
+ [Video of the talk on Youtube](https://www.youtube.com/watch?v=Evc7yleZlwM)   
   2019.  
 
 ### Peer-Reviewed Publications  
