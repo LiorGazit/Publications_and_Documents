@@ -4,9 +4,6 @@ In this repo I host key publications and documents or links to them.
 For citations you can check [my Google Scholar page](https://scholar.google.co.il/citations?user=P5AVxaIAAAAJ&hl=en)
 
 ### Miscellaneous Submissions  
-- (Thesis) **Rain-Mapping through compressed sensing: reconstruction criteria relating image sparsity resolution and random-observations**:  
- [from Tel Aviv Univesity](http://primage.tau.ac.il/libraries/theses/exeng/free/3276707.pdf)  
-  2016.
 - (Conference talk) **FROM CELLULAR NETWORKS TO THE GARDEN HOSE: ADVANCES IN RAINFALL MONITORING VIA CELLULAR POWER MEASUREMENTS**:  
  [The conference's plan](http://www.2016.ieeeglobalsip.org/Papers/ViewPapers2238.html?PaperNum=1031)  
   2016.  
@@ -21,12 +18,23 @@ For citations you can check [my Google Scholar page](https://scholar.google.co.i
 - (Poster) **Combining Natural Language Processing with Machine-Learning Models for
 Detecting Progression of Disease in Radiology Report of Cancer Patients**:  
  [in AACR conference, Newport, 2018](https://github.com/LiorGazit/Publications_and_Documents/raw/master/Poster%20at%20AACR%202018%2C%20Lior%20Gazit.pdf)  
-  2018.
+  2018.  
 - (Conference talk) **NLP Realizes its Potential in Healthcare - Reviewing its Abilities, Current Achievements, and Expectations**:  
  [Video of the talk on Youtube](https://www.youtube.com/watch?v=Evc7yleZlwM)   
   2019.  
+- (Guest Lecture) Columbia University, May 2021:  
+  **SQL for Data Science**  
+- (Guest Lecture) Princeton University, November 2023:  
+  **The Emergence and Evolution of Natural Language Processing**    
+- (Guest Lecture) IIT Madras, November 2023:  
+  **The Emergence and Evolution of Natural Language Processing**
+- (Conference talk) AI Summit, NYC, December 2023.  
+    
 
-### Peer-Reviewed Publications  
+### Research and Peer-Reviewed Publications  
+- (MSc Disertation) **Rain-Mapping through compressed sensing: reconstruction criteria relating image sparsity resolution and random-observations**:  
+ [from Tel Aviv Univesity](http://primage.tau.ac.il/libraries/theses/exeng/free/3276707.pdf)  
+  2016.
 - **Building a clinically relevant risk model: Predicting risk of a potentially preventable acute care visit for patients starting antineoplastic treatment**  
  [JCO clinical cancer informatics](https://ascopubs.org/doi/pdfdirect/10.1200/CCI.19.00104)  
 - **A framework for building a clinically relevant risk model**  
@@ -56,4 +64,18 @@ Detecting Progression of Disease in Radiology Report of Cancer Patients**:
 - **Employing electronic health record data to predict risk of emergency department visits for new patients.**  
  [Journal of Clinical Oncology, Issue 30_suppl](http://ascopubs.org/doi/abs/10.1200/JCO.2018.36.30_suppl.314)  
 - **Employing electronic health record data to predict risk of ED visits for new patients**  
- [Journal of Clinical Oncology, Issue 34_suppl](https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?sid=google&auinit=RM&aulast=Daly&atitle=Employing+electronic+health+record+data+to+predict+risk+of+ED+visits+for+new+patients.&id=doi:10.1200/JCO.2018.36.34_suppl.144&title=Journal+of+clinical+oncology+:+official+journal+of+the+American+Society+of+Clinical+Oncology.&volume=36&issue=34_suppl&date=2018&spage=144&issn=0732-183X)
+ [Journal of Clinical Oncology, Issue 34_suppl](https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?sid=google&auinit=RM&aulast=Daly&atitle=Employing+electronic+health+record+data+to+predict+risk+of+ED+visits+for+new+patients.&id=doi:10.1200/JCO.2018.36.34_suppl.144&title=Journal+of+clinical+oncology+:+official+journal+of+the+American+Society+of+Clinical+Oncology.&volume=36&issue=34_suppl&date=2018&spage=144&issn=0732-183X)    
+- **Patterns of metastatic disease in patients with cancer derived from natural language processing of structured CT radiology reports over a 10-year period**  
+  [Radiology, Volume 301](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2021210043)  
+- **Using machine learning to analyze patients' experiences in free text data as they use music therapy to ease the stress of hospitalization for cancer treatment**  
+  [QUALITY OF LIFE RESEARCH, Volume 30](https://scholar.google.com/scholar?cluster=1129308501785949408&hl=en&oi=scholarr)  
+- **Natural Language Processing of Large-Scale Structured Radiology Reports to Identify Oncologic Patients With or Without Splenomegaly Over a 10-Year Period**  
+  [JCO Clinical Cancer Informatics, Volume 6](https://ascopubs.org/doi/pdfdirect/10.1200/CCI.21.00104)  
+- **Analysis of a remote monitoring program for symptoms among adults with cancer receiving antineoplastic therapy**  
+  [JAMA Network Open, Volume 5](https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2789617/daly_2022_oi_220059_1645727142.30083.pdf)  
+- **Developing a cancer digital twin: Supervised metastases detection from consecutive structured radiology reports**  
+  [Frontiers in artificial intelligence, Volume 5](https://www.frontiersin.org/articles/10.3389/frai.2022.826402/full)  
+- **Leveraging time irreversibility with order-contrastive pre-training**  
+  [International Conference on Artificial Intelligence and Statistics](https://proceedings.mlr.press/v151/agrawal22a/agrawal22a.pdf)  
+- **Natural Language Processing of Computed Tomography Reports to Label Metastatic Phenotypes With Prognostic Significance in Patients With Colorectal Cancer**  
+  [JCO Clinical Cancer Informatics, Volume 6](https://ascopubs.org/doi/abs/10.1200/CCI.22.00014?journalCode=cci)  
