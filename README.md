@@ -3,32 +3,62 @@
 In this repo I host key publications and documents or links to them.  
 For citations you can check [my Google Scholar page](https://scholar.google.co.il/citations?user=P5AVxaIAAAAJ&hl=en)
 
-### Miscellaneous Submissions  
-- (Conference talk) **FROM CELLULAR NETWORKS TO THE GARDEN HOSE: ADVANCES IN RAINFALL MONITORING VIA CELLULAR POWER MEASUREMENTS**:  
- [The conference's plan](http://www.2016.ieeeglobalsip.org/Papers/ViewPapers2238.html?PaperNum=1031)  
-  2016.  
-- (Magazine article) **Trading Cancer for Data: Machine Learning for Cancer Diagnosis**:  
- a feature article on WSR magazine, special issue on AI:  
- [The PDF](https://github.com/LiorGazit/Documents/blob/master/WSR%20magazine%20sept2017%2C%20Feature%20-%20Lior%20Gazit.pdf)  
- [The official magazine publication](https://issuu.com/ihrimpublications/docs/wsr_july-september17-all/13)  
-  2017.
-- (Conference talk) **Quantification of CT images for the classification of high- and low-risk pancreatic cysts**:
- [Video on conference site](https://www.spiedigitallibrary.org/conference-presentations/10134/101340X/Quantification-of-CT-images-for-the-classification-of-high/10.1117/12.2255626?term=lior%20gazit%7c%7c)  
-  2017.  
-- (Poster) **Combining Natural Language Processing with Machine-Learning Models for
-Detecting Progression of Disease in Radiology Report of Cancer Patients**:  
- [in AACR conference, Newport, 2018](https://github.com/LiorGazit/Publications_and_Documents/raw/master/Poster%20at%20AACR%202018%2C%20Lior%20Gazit.pdf)  
-  2018.  
-- (Conference talk) **NLP Realizes its Potential in Healthcare - Reviewing its Abilities, Current Achievements, and Expectations**:  
- [Video of the talk on Youtube](https://www.youtube.com/watch?v=Evc7yleZlwM)   
-  2019.  
-- (Guest Lecture) Columbia University, May 2021:  
-  **SQL for Data Science**  
-- (Guest Lecture) Princeton University, November 2023:  
-  **The Emergence and Evolution of Natural Language Processing**    
-- (Guest Lecture) IIT Madras, November 2023:  
-  **The Emergence and Evolution of Natural Language Processing**
-- (Conference talk) AI Summit, NYC, December 2023.  
+### Miscellaneous Submissions
+
+1. **Speaking the Future: How NLP and LLMs Transform Business**  
+   *(Guest Lecture, University of Southern California, Marshall School of Business)*  
+   2025
+
+2. **Mastering the Journey: From NLP Fundamentals to Harnessing Large Language Models (LLMs)**  
+   *(Conference Talk, GDAI Conference)*  
+   2025
+
+3. **Mastering NLP from Foundations to LLMs**  
+   *(Book Co-Author, Packt Publishing)*  
+   [Book on Amazon](https://a.co/d/7JjFmYf)  
+   2024
+
+4. **The Emergence and Evolution of Natural Language Processing**  
+   *(Guest Lecture, Princeton University)*  
+   2023
+
+5. **The Emergence and Evolution of Natural Language Processing**  
+   *(Guest Lecture, IIT Madras)*  
+   2023
+
+6. **Beyond the Present: A Glimpse into the Future of AI and NLP Innovations**  
+   *(Conference Talk, AI Summit NYC)*  
+   2023
+
+7. **SQL for Data Science**  
+   *(Guest Lecture, Columbia University)*  
+   2021
+
+8. **NLP Realizes its Potential in Healthcare – Reviewing its Abilities, Current Achievements, and Expectations**  
+   *(Conference Talk)*  
+   [YouTube Video](https://www.youtube.com/watch?v=Evc7yleZlwM)  
+   2019
+
+9. **Combining Natural Language Processing with Machine-Learning Models for Detecting Progression of Disease in Radiology Report of Cancer Patients**  
+   *(Poster, AACR Conference, Newport)*  
+   [Poster PDF](https://github.com/LiorGazit/Publications_and_Documents/raw/master/Poster%20at%20AACR%202018%2C%20Lior%20Gazit.pdf)  
+   2018
+
+10. **Quantification of CT images for the classification of high- and low-risk pancreatic cysts**  
+    *(Conference Talk, SPIE Medical Imaging)*  
+    [Conference Video](https://www.spiedigitallibrary.org/conference-presentations/10134/101340X/Quantification-of-CT-images-for-the-classification-of-high/10.1117/12.2255626?term=lior%20gazit%7c%7c)  
+    2017
+
+11. **Trading Cancer for Data: Machine Learning for Cancer Diagnosis**  
+    *(Magazine Article, WSR Magazine – Special Issue on AI)*  
+    [Feature Article (PDF)](https://github.com/LiorGazit/Documents/blob/master/WSR%20magazine%20sept2017%2C%20Feature%20-%20Lior%20Gazit.pdf)  
+    [Official Magazine Publication](https://issuu.com/ihrimpublications/docs/wsr_july-september17-all/13)  
+    2017
+
+12. **FROM CELLULAR NETWORKS TO THE GARDEN HOSE: ADVANCES IN RAINFALL MONITORING VIA CELLULAR POWER MEASUREMENTS**  
+    *(Conference Talk, IEEE GlobalSIP)*  
+    [Conference Program](http://www.2016.ieeeglobalsip.org/Papers/ViewPapers2238.html?PaperNum=1031)  
+    2016
     
 ### Research and Peer-Reviewed Publications
 
